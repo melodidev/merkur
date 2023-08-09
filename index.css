@@ -1,0 +1,16 @@
+body {
+	background-color: Cornsilk;
+	font-family: Lora, serif;
+}
+
+.text {
+	position: absolute;
+	top: 43%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#output {
+	font-size: 100px;
+	margin-bottom: 1rem;
+}
